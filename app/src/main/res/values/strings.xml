@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Netflix4V</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search…</string>
+    <string name="continue_watching">Continue watching</string>
+    <string name="popular">Popular</string>
+    <string name="my_list">My list</string>
+    <string name="title">Title</string>
+    <string name="creator">Creator:</string>
+    <string name="actors">Actors</string>
+    <string name="creators">Creators</string>
+    <string name="description">Description</string>
+    <string name="cast">Cast:</string>
+</resources>
